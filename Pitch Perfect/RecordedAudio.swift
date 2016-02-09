@@ -2,8 +2,8 @@
 //  RecordedAudio.swift
 //  Pitch Perfect
 //
-//  Created by Stephen Short on 25/05/2015.
-//  Copyright (c) 2015 Stephen Short. All rights reserved.
+//  Created by Stephen Short on 09/02/2016.
+//  Copyright © 2016 Stephen Short. All rights reserved.
 //
 
 import Foundation

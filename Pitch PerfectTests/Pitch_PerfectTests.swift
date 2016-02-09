@@ -2,12 +2,12 @@
 //  Pitch_PerfectTests.swift
 //  Pitch PerfectTests
 //
-//  Created by Stephen Short on 20/05/2015.
-//  Copyright (c) 2015 Stephen Short. All rights reserved.
+//  Created by Stephen Short on 07/02/2016.
+//  Copyright © 2016 Stephen Short. All rights reserved.
 //
 
-import UIKit
 import XCTest
+@testable import Pitch_Perfect
 
 class Pitch_PerfectTests: XCTestCase {
     
@@ -23,12 +23,12 @@ class Pitch_PerfectTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        XCTAssert(true, "Pass")
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
+        self.measureBlock {
             // Put the code you want to measure the time of here.
         }
     }
